@@ -1,10 +1,24 @@
 {
-  "users": [{
-    "id": "Arthur Oliveira",
-    "email": "aoliveira@cod3r.com.br"
-  },{
-    "id": 2,
-    "name": "Maria Julia da Silva",
-    "email": "mjds@empresa.com" 
-}]
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Vitor Dias Alves De Almeida",
+      "email": "vitor.almeida@uni9.edu.br",
+      "id": 3
+    },
+    {
+      "name": "Vitor Dias Alves de Almeida",
+      "email": "iiwasaki42@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Tamires barbosa",
+      "email": "Tami@outolook",
+      "id": 6
+    }
+  ]
 }
